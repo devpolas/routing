@@ -1,11 +1,32 @@
 {
   "events": [
     {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "title": "Joy Jubilee Jamboree",
+      "image": "https://images.pexels.com/photos/1190297/pexels-photo-1190297.jpeg",
       "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+      "description": "Vestibulum fringilla rhoncus nisi, eget aliquam mauris imperdiet eu. Nunc ut metus magna. Phasellus justo lacus, convallis non vulputate at, lacinia vel nibh. Maecenas molestie blandit eros, eu feugiat arcu mollis ac. Suspendisse finibus vulputate sodales. Maecenas eros elit, elementum et sapien vel, lacinia blandit dolor. Donec et luctus nisl. Pellentesque hendrerit pulvinar odio ac sollicitudin.",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a09"
+    },
+    {
+      "title": "Giggles & Games Gala",
+      "image": "https://images.pexels.com/photos/2263436/pexels-photo-2263436.jpeg",
+      "date": "2022-10-01",
+      "description": "Integer luctus dolor id lacinia lacinia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam facilisis auctor diam vitae iaculis. Donec fermentum, velit ac tempor dignissim, massa erat interdum leo, in ultricies orci mi nec quam. Nulla nulla orci, tincidunt eu aliquet eget, fermentum nec nulla. Morbi aliquam pharetra egestas. Nulla ut tempus nibh, sit amet mollis ipsum. Aenean laoreet posuere eleifend. Nulla ullamcorper at quam id molestie. Proin vitae tortor justo. Nam vel iaculis tortor. Quisque elementum tempor urna sit amet ullamcorper.",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a10"
+    },
+    {
+      "title": "The PlayPalooza Party",
+      "image": "https://images.pexels.com/photos/2774556/pexels-photo-2774556.jpeg",
+      "date": "2022-10-01",
+      "description": "Vivamus non quam in justo ultricies tincidunt sed in tortor. Sed in leo ultrices leo aliquam vestibulum. Aliquam erat volutpat. Donec ac felis eu dui gravida lobortis. In hac habitasse platea dictumst. In hac habitasse platea dictumst. Suspendisse potenti. Cras interdum malesuada massa. Curabitur vel nisi ut leo porta mollis. Ut ac velit sit amet dui varius consequat. Nullam eu blandit risus, ut ultrices mauris. In hac habitasse platea dictumst. Morbi vehicula tortor in massa pharetra, at consequat ante elementum. Nam at congue nisl. Sed ligula purus, rutrum et dictum ut, laoreet sit amet neque. Nullam sodales non odio et ornare.",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a11"
+    },
+    {
+      "title": "Whimsy Wonderland",
+      "image": "https://images.pexels.com/photos/1387174/pexels-photo-1387174.jpeg",
+      "date": "2022-10-01",
+      "description": "Pellentesque in efficitur mauris. Aenean erat ipsum, dapibus at nisi vestibulum, rhoncus blandit ante. Nulla vehicula sed sem ut dictum. Sed nunc velit, egestas vel velit in, tincidunt vestibulum felis. Suspendisse pharetra tellus ac ipsum pulvinar dignissim. Proin eget augue sapien. Pellentesque cursus imperdiet lacus, id auctor metus ullamcorper vitae. Donec lacus tellus, placerat id est eget, fringilla fermentum nisi. Nam ornare orci est, id euismod odio vestibulum sed. Aliquam vehicula metus non dui dignissim facilisis. Cras nec lacinia eros.",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a12"
     }
   ],
   "users": []
